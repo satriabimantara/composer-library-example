@@ -3,7 +3,7 @@
 namespace Satriabimantara\CustomerLibrary;
 
 
-class CustomerLibrary
+class Customer
 {
     public function __construct(string $name)
     {
