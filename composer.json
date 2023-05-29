@@ -1,0 +1,17 @@
+{
+    "name": "satriabimantara/customer-library",
+    "description": "Membuat Library Customer untuk diupload ke Git Repository Github",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Satriabimantara\\CustomerLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "I Made Satria Bimantara",
+            "email": "satriabimantara.md@gmail.com"
+        }
+    ],
+    "require": {}
+}
